@@ -1,7 +1,7 @@
 // to compile:
-// g++ -std=c++20 -Wall -fmodules-ts -c integerLanguage.cc
-// g++ -std=c++20 -Wall -fmodules-ts -c integerLanguage-impl.cc
-// g++ -std=c++20 -Wall -fmodules-ts -o mathematicalLanguageForIntegers main-mathematicalLanguageForIntegers.cc integerLanguage.o integerLanguage-impl.o
+// g++ -std=c++20 -Wall -fmodules-ts -c integer_language.cc
+// g++ -std=c++20 -Wall -fmodules-ts -c integer_language-impl.cc
+// g++ -std=c++20 -Wall -fmodules-ts -o mathematical_language_for_integers main-mathematical_language_for_integers.cc integer_language.o integer_language-impl.o
 
 import intset;
 import <iostream>;

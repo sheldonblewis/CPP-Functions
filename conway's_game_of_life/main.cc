@@ -1,3 +1,5 @@
+// https://en.wikipedia.org/wiki/Conways_Game_of_Life
+
 #include <iostream>
 #include <string>
 #include "grid.h"

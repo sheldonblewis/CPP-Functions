@@ -1,0 +1,3 @@
+module textprocessor;
+
+TextProcessor::~TextProcessor() {}
